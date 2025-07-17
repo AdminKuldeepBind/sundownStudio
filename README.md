@@ -1,9 +1,6 @@
 # 🌇 Sundown Studio
 
 A creative and interactive portfolio website built with modern web technologies, designed to showcase a studio-style design experience using smooth animations and interactive UI.
-
-![Sundown Studio Screenshot](./preview.png) <!-- Replace with actual image path -->
-
 ---
 
 ## 🚀 Features
